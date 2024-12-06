@@ -12,7 +12,7 @@ Swoft Http Session Component
 - composer command
 
 ```bash
-composer require swoft/session
+composer require swoft-fork/session
 ```
 
 ## Resources
