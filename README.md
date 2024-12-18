@@ -6,7 +6,15 @@
 [![Swoft License](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](https://github.com/swoft-cloud/swoft/blob/master/LICENSE)
 
 Swoft Http Session Component
-This Repositories fork from https://github.com/swoft-cloud/swoft-session, support php8
+
+
+**notice**
+
+This repository is forked from the Swoft repository on GitHub and has only been tested with Swoole version 4.8.13 and the corresponding PHP 8.2 environment. Please use with caution in your production environment, as active code maintenance is not guaranteed. For documentation, please refer to the original framework documentation.
+
+本仓库fork于github swoft库，只测试了swoole4.8.13，php8.2对应版本环境，请慎用于你的生产环境，不负责积极代码维护。如需查看文档请访问原框架文档。
+
+
 
 ## Install
 
